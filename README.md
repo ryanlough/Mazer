@@ -7,4 +7,5 @@ You can try out the game for yourself [here!](https://play.google.com/store/apps
 
 ------------------------------------------
 This game is currently in the process of being completely rewritten.
+
 **Caution:** As this was my first attempt at an Android app, the code found here may be a bit rough and poorly documented. Ye be warned.
