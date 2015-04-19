@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Mazer</string>
+    <string name="lose">GAME OVER!</string>
+    <string name="home">Home</string>
+    <string name="retry">Retry</string>
+    <string name="score">Score: </string>
+    <string name="luck">GOOD LUCK</string>
+    <string name="select">Select Difficulty</string>
+    <string name="settings">&#160;Settings&#160;</string>
+    <string name="about">&#160;About&#160;</string>
+    <string name="scoreboard">&#160;Scoreboard&#160;</string>
+    <string name="tips">&#160;Tips&#160;</string>
+    <string name="list">Drag your finger through the maze!\nHow far can you get?\n\nDon\'t lift your finger and don\'t cross the blue lines or you\'ll lose!</string>
+    <string name="three">&#160;3&#160;</string>
+    <string name="four">&#160;4&#160;</string>
+    <string name="five">&#160;5&#160;</string>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#00FF00</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="red">#FF0000</color>
+    
+    <string name="me">Me</string>
+    <string name="dev">Developer: Ryan Lough</string>
+    <string name="music">Music: Kevin MacLeod</string>
+    <string name="email">Questions, Comments, Suggestions:\ndevelop.ryan@gmail.com</string>
+    
+    <string name="show">Show trail: </string>
+</resources>
