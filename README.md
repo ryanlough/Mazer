@@ -6,4 +6,4 @@ Essentially an endurance game, Mazer comes with three levels of difficulty: Maze
 You can try out the game for yourself [here!](https://play.google.com/store/apps/details?id=ryan.mazer&hl=en)
 
 ------------------------------------------
-This game is currently in the process of being completely rewritten. *Caution:* As this was my first attempt at an Android app, the code found here may be a bit rough and poorly documented. Ye be warned.
+This game is currently in the process of being completely rewritten. **Caution:** As this was my first attempt at an Android app, the code found here may be a bit rough and poorly documented. Ye be warned.
